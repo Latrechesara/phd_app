@@ -12,14 +12,14 @@ This repository contains the complete theoretical framework for the Machine Lear
 | ID | Module Topic | Technical Focus | Link |
 | :--- | :--- | :--- | :--- |
 | 01 | **Regression & Gradient Descent** | OLS, Cost Functions, Optimization |[View PDF](https://github.com/Latrechesara/phd_app/blob/main/Machine_LEARNING_CODE213_Data_Science_bootcamp_SARA_LATRECHE/1-Regression_gradient_descent.pdf)  |
-| 02 | **Linear Classifiers** | Perceptron, Decision Boundaries | [View PDF](2-Linearclassifier.pdf) |
-| 03 | **Logistic Regression** | Sigmoid, MLE, Binary Classification | [View PDF](3-Logistic_regression.pdf) |
-| 04 | **K-Nearest Neighbors (KNN)** | Distance Metrics, Non-parametric Learning | [View PDF](4-KNN.pdf) |
-| 05 | **Principal Component Analysis** | Dimensionality Reduction, Eigenvalues | [View PDF](5-Principal_Compenenet_Analysis.pdf) |
-| 06 | **Clustering** | Unsupervised Learning, K-Means++ | [View PDF](6-Clustering.pdf) |
-| 07 | **Decision Trees** | Entropy, Information Gain, Gini | [View PDF](7-Decision_Tree.pdf) |
-| 08 | **Ensemble Learning** | Bagging, Boosting, Random Forests | [View PDF](8-Ensemble_learning.pdf) |
-| 09 | **Support Vector Machines** | Hyperplane Optimization, Kernel Trick | [View PDF](9-Support_Vector_Machine.pdf) |
+| 02 | **Linear Classifiers** | Perceptron, Decision Boundaries |[View PDF](https://github.com/Latrechesara/phd_app/blob/main/Machine_LEARNING_CODE213_Data_Science_bootcamp_SARA_LATRECHE/2-Linearclassifier.pdf) |
+| 03 | **Logistic Regression** | Sigmoid, MLE, Binary Classification | [View PDF](https://github.com/Latrechesara/phd_app/blob/main/Machine_LEARNING_CODE213_Data_Science_bootcamp_SARA_LATRECHE/3-Logistic_regression.pdf) |
+| 04 | **K-Nearest Neighbors (KNN)** | Distance Metrics, Non-parametric Learning | [View PDF](https://github.com/Latrechesara/phd_app/blob/main/Machine_LEARNING_CODE213_Data_Science_bootcamp_SARA_LATRECHE/4-KNN.pdf) |
+| 05 | **Principal Component Analysis** | Dimensionality Reduction, Eigenvalues | [View PDF](https://github.com/Latrechesara/phd_app/blob/main/Machine_LEARNING_CODE213_Data_Science_bootcamp_SARA_LATRECHE/5-Principal_Compenenet_Analysis.pdf) |
+| 06 | **Clustering** | Unsupervised Learning, K-Means++ | [View PDF](https://github.com/Latrechesara/phd_app/blob/main/Machine_LEARNING_CODE213_Data_Science_bootcamp_SARA_LATRECHE/6-Clustering.pdf) |
+| 07 | **Decision Trees** | Entropy, Information Gain, Gini |[View PDF](https://github.com/Latrechesara/phd_app/blob/main/Machine_LEARNING_CODE213_Data_Science_bootcamp_SARA_LATRECHE/7-Decision_Tree.pdf)|
+| 08 | **Ensemble Learning** | Bagging, Boosting, Random Forests |[View PDF](https://github.com/Latrechesara/phd_app/blob/main/Machine_LEARNING_CODE213_Data_Science_bootcamp_SARA_LATRECHE/8-Ensemble_learning.pdf) |
+| 09 | **Support Vector Machines** | Hyperplane Optimization, Kernel Trick | [View PDF](https://github.com/Latrechesara/phd_app/blob/main/Machine_LEARNING_CODE213_Data_Science_bootcamp_SARA_LATRECHE/9-Support_Vector_Machine.pdf) |
 
 ---
 
@@ -28,10 +28,10 @@ This repository contains the complete theoretical framework for the Machine Lear
 
 | ID | Module Topic | Key Architectures Covered | Link |
 | :--- | :--- | :--- | :--- |
-| 01 | **Neural Networks from Scratch** | Backpropagation, Multi-Layer Perceptrons (MLP) | [View PDF](1-neural_network-Latreche_Sara_code213.pdf) |
-| 02 | **The Spatial Revolution** | CNNs, YOLO (Object Detection), Vision Transformers (ViT) | [View PDF](2-From_CNN_to_VIT_by_YOLOV_Latreche_Sara.pdf) |
-| 03 | **The Road to ChatGPT** | RNNs, LSTMs, Attention, Transformers | [View PDF](3-From_RNN_TO_Transformer_Latreche_Sara.pdf) |
-| 05 | **Generative Models** | GANs, Discriminator-Generator Game Theory | [View PDF](5-gans_Latreche_Sara.pdf) |
+| 01 | **Neural Networks from Scratch** | Backpropagation, Multi-Layer Perceptrons (MLP) |[View PDF](https://github.com/Latrechesara/phd_app/blob/main/Deep-learning-code213/1-neural_network-Latreche_Sara_code213%20(1).pdf) |
+| 02 | **The Spatial Revolution** | CNNs, YOLO (Object Detection), Vision Transformers (ViT) | [View PDF](https://github.com/Latrechesara/phd_app/blob/main/Deep-learning-code213/2-From_CNN_to_VIT_by_YOLOV_Latreche_Sara.pdf) |
+| 03 | **The Road to ChatGPT** | RNNs, LSTMs, Attention, Transformers |[View PDF](https://github.com/Latrechesara/phd_app/blob/main/Deep-learning-code213/3-From_RNN_TO_Transformer_Latreche_Sara.pdf) |
+| 05 | **Generative Models** | GANs, Discriminator-Generator Game Theory |[View PDF](https://github.com/Latrechesara/phd_app/blob/main/Deep-learning-code213/5-gans_Latreche_Sara.pdf) |
 
 ---
 
