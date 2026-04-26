@@ -11,7 +11,7 @@ This repository contains the complete theoretical framework for the Machine Lear
 
 | ID | Module Topic | Technical Focus | Link |
 | :--- | :--- | :--- | :--- |
-| 01 | **Regression & Gradient Descent** | OLS, Cost Functions, Optimization | [View PDF][View PDF](https://github.com/Latrechesara/phd_app/blob/main/Machine_LEARNING_CODE213_Data_Science_bootcamp_SARA_LATRECHE/1-Regression_gradient_descent.pdf)(https://github.com/Latrechesara/phd_app/blob/main/Machine_LEARNING_CODE213_Data_Science_bootcamp_SARA_LATRECHE/1-Regression_gradient_descent.pdf)) |
+| 01 | **Regression & Gradient Descent** | OLS, Cost Functions, Optimization |[View PDF](https://github.com/Latrechesara/phd_app/blob/main/Machine_LEARNING_CODE213_Data_Science_bootcamp_SARA_LATRECHE/1-Regression_gradient_descent.pdf)  |
 | 02 | **Linear Classifiers** | Perceptron, Decision Boundaries | [View PDF](2-Linearclassifier.pdf) |
 | 03 | **Logistic Regression** | Sigmoid, MLE, Binary Classification | [View PDF](3-Logistic_regression.pdf) |
 | 04 | **K-Nearest Neighbors (KNN)** | Distance Metrics, Non-parametric Learning | [View PDF](4-KNN.pdf) |
