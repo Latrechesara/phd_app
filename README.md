@@ -1,4 +1,3 @@
-# phd_app
 # AI Foundations: From First Principles to Advanced Architectures
 ### Code 213 | Data Science & Deep Learning Series
 
