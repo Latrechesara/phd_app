@@ -41,7 +41,6 @@ Every architecture in this repository is deconstructed into its fundamental comp
 3. **Production Deployment:** Scaling concepts using PyTorch, Scikit-Learn, and modern UI frameworks (Plotly Dash).
 
 ## 👤 About the Instructor
-**Latreche Sara** *Data Scientist | Theoretical Physicist* Specializing in the intersection of physical systems and advanced AI, with a focus on medical multimodal fusion, cardiac signal analysis, and first-principles technical education.
-
+**Latreche Sara** *Data Scientist | Theoretical Physicist*
 ---
 *Developed for the Code 213 Data Science Community. This documentation serves as proof of technical writing and curriculum architecture for academic and professional applications.*
