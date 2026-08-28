@@ -31,6 +31,7 @@ This repository contains the complete theoretical framework for the Machine Lear
 | 02 | **The Spatial Revolution** | CNNs, YOLO (Object Detection), Vision Transformers (ViT) | [View PDF](https://github.com/Latrechesara/phd_app/blob/main/Deep-learning-code213/2-From_CNN_to_VIT_by_YOLOV_Latreche_Sara.pdf) |
 | 03 | **The Road to ChatGPT** | RNNs, LSTMs, Attention, Transformers |[View PDF](https://github.com/Latrechesara/phd_app/blob/main/Deep-learning-code213/3-From_RNN_TO_Transformer_Latreche_Sara.pdf) |
 | 05 | **Generative Models** | GANs, Discriminator-Generator Game Theory |[View PDF](https://github.com/Latrechesara/phd_app/blob/main/Deep-learning-code213/5-gans_Latreche_Sara.pdf) |
+| 05 | **Reinforcement Learning** | MDP,deepRL |[View PDF](https://github.com/Latrechesara/phd_app/blob/main/Deep-learning-code213/6-Reinforcement_learning.pdf) |
 
 ---
 
